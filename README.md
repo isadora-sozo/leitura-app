@@ -17,6 +17,7 @@ PdAdmin (PostgreSQL)
 Visual Studio Code
 https://code.visualstudio.com
 
+
 PASSO 1 - Configuração do Banco de Dados (Criação)
 
 Abrir o PgAdmin:
@@ -26,6 +27,7 @@ Abrir o PgAdmin:
 <img width="699" height="554" alt="image" src="https://github.com/user-attachments/assets/b64a6d60-1b1f-4e20-a3b4-3122d26b22a1" />
 
 -nome do banco de dados: leitura_db
+
 
 PASSO 2 - Criar as tabelas:
 
@@ -41,6 +43,7 @@ PASSO 2 - Criar as tabelas:
 
 -Execute
 
+
 PASSO 3 - Testado DB
 
 -clique com botão direito em leitura_db
@@ -51,6 +54,7 @@ PASSO 3 - Testado DB
 SELECT COUNT(*) FROM books    (tem que aparecer 20)
          
 SELECT COUNT(*) FROM questions  (tem que aparecer 15)
+
 
 PASSO 4 - Rodar o Backend:
 
@@ -65,6 +69,7 @@ PASSO 4 - Rodar o Backend:
 -escreva npm install
 
 -escreva node app.js  (se não der certo: npm run dev)
+
 
 PASSO 5 - Rodar o FrontEnd
 
@@ -85,6 +90,7 @@ PASSO 5 - Rodar o FrontEnd
 -no arquivo backend/database/db.js
 
 -mude a parte que está o password:"sozo"; para a senha que foi coloca no pgAdmin (nos computadores do senai ela é: senai)
+
 
 Obs: Servidor vai rodar em:
 
