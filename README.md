@@ -72,3 +72,10 @@ npm start
 Abrirá em:
 
 http://localhost:3000
+
+📈 Próximas Melhorias
+Adicionar capas dos livros
+Melhorar layout visual
+Criar barra de progresso
+Adicionar novos livros
+Criar versão para totem
