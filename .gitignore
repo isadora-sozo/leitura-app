@@ -1,18 +1,4 @@
 # Dependências
-node_modules/
-
+node_modules
 # Arquivos de ambiente
 .env
-
-# Logs
-npm-debug.log*
-
-# Build React
-frontend/build/
-
-# Sistema operacional
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
