@@ -22,14 +22,18 @@ PASSO 1 - Configuração do Banco de Dados (Criação)
 Abrir o PgAdmin:
 -com o botão direito clique em database
 -create->database
+
 <img width="699" height="554" alt="image" src="https://github.com/user-attachments/assets/b64a6d60-1b1f-4e20-a3b4-3122d26b22a1" />
+
 -nome do banco de dados: leitura_db
 
 PASSO 2 - Criar as tabelas:
 -clique com o botão direio no leitura_db
 -clique em Query Tool
 -clique no icone de arquivo
+
 <img width="99" height="100" alt="image" src="https://github.com/user-attachments/assets/e42e8c09-3684-4ffe-9dc0-f0dff36f214e" />
+
 -Abrir: database/create_tables.sql
 -Execute
 PASSO 3 - Testado DB
